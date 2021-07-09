@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2021-07-06 19:04"><shop>
-   <name>Handmade-Olle</name>
+<yml_catalog date="2021-07-10 00:56"><shop>
+   <name>Olle-Handmade</name>
    <company>Olle-handmade</company>
    <url>https://olle-handmade.ru</url>
    <platform>Tilda Publishing</platform>
@@ -15,7 +15,7 @@
       <category id="320880017241">Посуда и предметы интерьера</category>
       <category id="177022826971">Подарочные карты</category>
       <category id="717316912101">Кружки</category>
-      <category id="701779767591">Подставки из смолы</category>
+      <category id="701779767591">Изделия из смолы</category>
       <category id="363161777311">Изделия из кожи</category>
       <category id="150874523001">Украшения</category>
       <category id="854681877321">Картины</category>
@@ -71,57 +71,21 @@
           </description>
           <param name="Размер">4*4 см</param>
       </offer>
-      <offer id="839823751121" group_id="156598498431">
-          <name>Подарочная карта - 1000</name>
-          <url>https://olle-company.com/gift-card?editionuid=839823751121</url>
-          <model>000000GF-1</model>
-          <price>1000.00</price>
+      <offer id="156598498431">
+          <name>Подарочный сертификат</name>
+          <url>https://olle-handmade.ru/gift-card/tproduct/334546652-156598498431-podarochnii-sertifikat</url>
+          <price>1500.00</price>
           <currencyId>RUB</currencyId>
           <categoryId>177022826971</categoryId>
-          <picture>https://static.tildacdn.com/tild3733-6265-4238-b738-623565316331/photo-1.jpg</picture>
+          <picture>https://static.tildacdn.com/tild3738-6462-4363-b230-316533373265/page-3.jpeg</picture>
           <delivery>false</delivery>
           <pickup>false</pickup>
           <store>false</store>
-          <param name="Номинал">1000</param>
-      </offer>
-      <offer id="508680420831" group_id="156598498431">
-          <name>Подарочная карта - 2000</name>
-          <url>https://olle-company.com/gift-card?editionuid=508680420831</url>
-          <model>000000GF-2</model>
-          <price>2000.00</price>
-          <currencyId>RUB</currencyId>
-          <categoryId>177022826971</categoryId>
-          <picture>https://static.tildacdn.com/tild3733-6265-4238-b738-623565316331/photo-1.jpg</picture>
-          <delivery>false</delivery>
-          <pickup>false</pickup>
-          <store>false</store>
-          <param name="Номинал">2000</param>
-      </offer>
-      <offer id="614320405421" group_id="156598498431">
-          <name>Подарочная карта - 3000</name>
-          <url>https://olle-company.com/gift-card?editionuid=614320405421</url>
-          <model>000000GF-3</model>
-          <price>3000.00</price>
-          <currencyId>RUB</currencyId>
-          <categoryId>177022826971</categoryId>
-          <picture>https://static.tildacdn.com/tild3733-6265-4238-b738-623565316331/photo-1.jpg</picture>
-          <delivery>false</delivery>
-          <pickup>false</pickup>
-          <store>false</store>
-          <param name="Номинал">3000</param>
-      </offer>
-      <offer id="870504237451" group_id="156598498431">
-          <name>Подарочная карта - 5000</name>
-          <url>https://olle-company.com/gift-card?editionuid=870504237451</url>
-          <model>000000GF-4</model>
-          <price>5000.00</price>
-          <currencyId>RUB</currencyId>
-          <categoryId>177022826971</categoryId>
-          <picture>https://static.tildacdn.com/tild3733-6265-4238-b738-623565316331/photo-1.jpg</picture>
-          <delivery>false</delivery>
-          <pickup>false</pickup>
-          <store>false</store>
-          <param name="Номинал">5000</param>
+          <description>
+<![CDATA[
+Подарите выбор вашим друзьям и близким из любой точки мира! Доставляется на электронную почту.
+]]>
+          </description>
       </offer>
       <offer id="304002899691">
           <name>Гриб с лягушкой средний</name>
@@ -2011,10 +1975,10 @@
       </offer>
       <offer id="665131865101">
           <name>Брошь ручной работы Кленовый лист</name>
-          <url>https://olle-handmade.ru/katalog/tproduct/324702527-665131865101-brosh-ruchnoi-raboti-klenovii-list</url>
+          <url>https://olle-handmade.ru/ukrasheniya-ruchnoj-raboty/tproduct/295146924-665131865101-brosh-ruchnoi-raboti-klenovii-list</url>
           <price>2015.00</price>
           <currencyId>RUB</currencyId>
-          <categoryId>350572478511</categoryId>
+          <categoryId>150874523001</categoryId>
           <picture>https://static.tildacdn.com/tild6364-6234-4535-a130-313466313630/4.jpg</picture>
           <delivery>false</delivery>
           <pickup>false</pickup>
@@ -2623,7 +2587,7 @@
           <store>false</store>
           <description>
 <![CDATA[
-Выполнена&nbsp;в технике папье-маше
+Выполнена в технике папье-маше
 ]]>
           </description>
       </offer>
@@ -2687,7 +2651,7 @@
           <store>false</store>
           <description>
 <![CDATA[
-"Европейское дерево" или "Дерево счастья" - это декоративное искусственное дерево, которое можно использовать в любом интерьере. В зависимости от размера и дизайна, его можно установить как на книжных полках, так и на полу; как на кухне, так и в гостиной. Топиарий - это декоративная вещь.&nbsp;Размер: высота 48см, диаметр кроны 20 см.
+"Европейское дерево" или "Дерево счастья" - это декоративное искусственное дерево, которое можно использовать в любом интерьере. В зависимости от размера и дизайна, его можно установить как на книжных полках, так и на полу; как на кухне, так и в гостиной. Топиарий - это декоративная вещь. Размер: высота 48см, диаметр кроны 20 см.
 ]]>
           </description>
       </offer>
@@ -2703,7 +2667,7 @@
           <store>false</store>
           <description>
 <![CDATA[
-<p style="text-align: left;">"Европейское дерево" или "Дерево счастья" - это декоративное искусственное дерево, которое можно использовать в любом интерьере. В зависимости от размера и дизайна, его можно установить как на книжных полках, так и на полу; как на кухне, так и в гостиной. Топиарий - это декоративная вещь. </p><p style="text-align: left;">&nbsp;Сделан из тканевых цветов с любовью, приносит счастье</p>
+<p style="text-align: left;">"Европейское дерево" или "Дерево счастья" - это декоративное искусственное дерево, которое можно использовать в любом интерьере. В зависимости от размера и дизайна, его можно установить как на книжных полках, так и на полу; как на кухне, так и в гостиной. Топиарий - это декоративная вещь. </p><p style="text-align: left;"> Сделан из тканевых цветов с любовью, приносит счастье</p>
 ]]>
           </description>
       </offer>
@@ -2943,7 +2907,7 @@
           <store>false</store>
           <description>
 <![CDATA[
-<p style="text-align: left;">Саше из соевого воска, эфирных масел чайного дерева и лаванды, сушеных растений.</p><p style="text-align: left;">.</p><p style="text-align: left;">Освежители воздуха из натурального воска идеально подходят для ароматизации шкафов, ящиков и других небольших помещений. Можно повесить в машине, только не в жару.</p><p style="text-align: left;">.</p><p style="text-align: left;">Ароматические саше - это еще и очаровательный подарок на новоселье или в знак благодарности. </p><p style="text-align: left;">.</p><p style="text-align: left;">Аромат сохраняется до 3 месяцев. Чтобы освежить запах, нужно обдуть саше горячим феном.</p>
+<p style="text-align: left;">Саше из соевого воска, эфирных масел чайного дерева и лаванды, сушеных растений.</p><p style="text-align: left;">.</p><p style="text-align: left;">Освежители воздуха из натурального воска идеально подходят для ароматизации шкафов, ящиков и других небольших помещений. Можно повесить в машине, только не в жару.</p><p style="text-align: left;">.</p><p style="text-align: left;">Ароматические саше - это еще и очаровательный подарок на новоселье или в знак благодарности.</p><p style="text-align: left;">.</p><p style="text-align: left;">Аромат сохраняется до 3 месяцев. Чтобы освежить запах, нужно обдуть саше горячим феном.</p>
 ]]>
           </description>
           <param name="Сухоцветы">роза</param>
@@ -2961,7 +2925,7 @@
           <store>false</store>
           <description>
 <![CDATA[
-<p style="text-align: left;">Саше из соевого воска, эфирных масел чайного дерева и лаванды, сушеных растений.</p><p style="text-align: left;">.</p><p style="text-align: left;">Освежители воздуха из натурального воска идеально подходят для ароматизации шкафов, ящиков и других небольших помещений. Можно повесить в машине, только не в жару.</p><p style="text-align: left;">.</p><p style="text-align: left;">Ароматические саше - это еще и очаровательный подарок на новоселье или в знак благодарности. </p><p style="text-align: left;">.</p><p style="text-align: left;">Аромат сохраняется до 3 месяцев. Чтобы освежить запах, нужно обдуть саше горячим феном.</p>
+<p style="text-align: left;">Саше из соевого воска, эфирных масел чайного дерева и лаванды, сушеных растений.</p><p style="text-align: left;">.</p><p style="text-align: left;">Освежители воздуха из натурального воска идеально подходят для ароматизации шкафов, ящиков и других небольших помещений. Можно повесить в машине, только не в жару.</p><p style="text-align: left;">.</p><p style="text-align: left;">Ароматические саше - это еще и очаровательный подарок на новоселье или в знак благодарности.</p><p style="text-align: left;">.</p><p style="text-align: left;">Аромат сохраняется до 3 месяцев. Чтобы освежить запах, нужно обдуть саше горячим феном.</p>
 ]]>
           </description>
           <param name="Сухоцветы">ромашка</param>
@@ -10026,7 +9990,7 @@
           <store>false</store>
           <description>
 <![CDATA[
-Подсвечник ручной работы.&nbsp;Цвет белый
+Подсвечник ручной работы. Цвет белый
 ]]>
           </description>
       </offer>
@@ -10042,7 +10006,7 @@
           <store>false</store>
           <description>
 <![CDATA[
-Декоративный подсвечник ручной работы.&nbsp;Цвет золотой
+Декоративный подсвечник ручной работы. Цвет золотой
 ]]>
           </description>
       </offer>
@@ -10126,7 +10090,215 @@
           <store>false</store>
           <description>
 <![CDATA[
-Интерьерная ваза ручной работы.&nbsp;Цвет белый
+Интерьерная ваза ручной работы. Цвет белый
+]]>
+          </description>
+      </offer>
+      <offer id="808529380911">
+          <name>Кукла интерьерная</name>
+          <url>https://olle-handmade.ru/kukly-ruchnoj-raboty/tproduct/297005934-808529380911-kukla-interernaya</url>
+          <price>4500.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>459289795251</categoryId>
+          <picture>https://static.tildacdn.com/tild3764-6231-4363-b765-613838393564/image-07-07-21-12-51.jpeg</picture>
+          <delivery>false</delivery>
+          <pickup>false</pickup>
+          <store>false</store>
+          <description>
+<![CDATA[
+Кукла-малышка Солнечная Девочка ростом 24 см, самостоятельно стоит и сидит. В работе используются только хлопковые ткани, набиваюся холофайбером. Такой подарок принесёт радость как маленькой девочке, так и большой. Послужит прекрасным дополнением интерьера.
+]]>
+          </description>
+      </offer>
+      <offer id="539922004021">
+          <name>Кукла интерьерная</name>
+          <url>https://olle-handmade.ru/kukly-ruchnoj-raboty/tproduct/297005934-539922004021-kukla-interernaya</url>
+          <price>4500.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>459289795251</categoryId>
+          <picture>https://static.tildacdn.com/tild6361-3465-4366-b636-333530393565/image-07-07-21-12-51.jpeg</picture>
+          <delivery>false</delivery>
+          <pickup>false</pickup>
+          <store>false</store>
+          <description>
+<![CDATA[
+Кукла-малышка ростом 24 см, самостоятельно стоит и сидит. В работе используются только хлопковые ткани, набиваюся холофайбером. Такой подарок принесёт радость как маленькой девочке, так и большой. Послужит прекрасным дополнением интерьера.
+]]>
+          </description>
+      </offer>
+      <offer id="379012797061">
+          <name>Кукла интерьерная</name>
+          <url>https://olle-handmade.ru/kukly-ruchnoj-raboty/tproduct/297005934-379012797061-kukla-interernaya</url>
+          <price>4500.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>459289795251</categoryId>
+          <picture>https://static.tildacdn.com/tild6136-6130-4932-a363-373436313361/image-07-07-21-12-55.jpeg</picture>
+          <delivery>false</delivery>
+          <pickup>false</pickup>
+          <store>false</store>
+          <description>
+<![CDATA[
+Кукла-малышка ростом 24 см, самостоятельно стоит и сидит. В работе используются только хлопковые ткани, набиваюся холофайбером. Такой подарок принесёт радость как маленькой девочке, так и большой. Послужит прекрасным дополнением интерьера.
+]]>
+          </description>
+      </offer>
+      <offer id="748956349401">
+          <name>Кукла интерьерная</name>
+          <url>https://olle-handmade.ru/kukly-ruchnoj-raboty/tproduct/297005934-748956349401-kukla-interernaya</url>
+          <price>4500.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>459289795251</categoryId>
+          <picture>https://static.tildacdn.com/tild3761-6137-4965-b465-643663623335/image-07-07-21-12-55.jpeg</picture>
+          <delivery>false</delivery>
+          <pickup>false</pickup>
+          <store>false</store>
+          <description>
+<![CDATA[
+Кукла-малышка ростом 24 см, самостоятельно стоит и сидит. В работе используются только хлопковые ткани, набиваюся холофайбером. Такой подарок принесёт радость как маленькой девочке, так и большой. Послужит прекрасным дополнением интерьера.
+]]>
+          </description>
+      </offer>
+      <offer id="290803401061">
+          <name>Желтый набор</name>
+          <url>https://olle-handmade.ru/iz-smoly/tproduct/295139759-290803401061-zheltii-nabor</url>
+          <price>7300.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>320880017241</categoryId>
+          <picture>https://static.tildacdn.com/tild6366-3866-4161-a337-653437336634/photo_2021-07-08_21-.jpg</picture>
+          <delivery>false</delivery>
+          <pickup>false</pickup>
+          <store>false</store>
+          <description>
+<![CDATA[
+Желтый набор: изогнутый поднос ( ваза для фруктов 30х20 см ) и 3 подстаканника , покрытых защитным покрытием от царапин и горячих температур 11 см . Материал сертифицированная эпоксидная смола .&nbsp;
+]]>
+          </description>
+      </offer>
+      <offer id="524286101091">
+          <name>Часы море</name>
+          <url>https://olle-handmade.ru/iz-smoly/tproduct/295139759-524286101091-chasi-more</url>
+          <price>5800.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>320880017241</categoryId>
+          <picture>https://static.tildacdn.com/tild6361-3635-4065-b639-343739303966/photo_2021-07-08_21-.jpg</picture>
+          <delivery>false</delivery>
+          <pickup>false</pickup>
+          <store>false</store>
+          <description>
+<![CDATA[
+Диаметр 30 см . Материал эпоксидная смола . Ручная работа
+]]>
+          </description>
+      </offer>
+      <offer id="541202060681">
+          <name>Часы черные</name>
+          <url>https://olle-handmade.ru/iz-smoly/tproduct/295139759-541202060681-chasi-chernie</url>
+          <price>5800.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>320880017241</categoryId>
+          <picture>https://static.tildacdn.com/tild6636-6665-4964-b563-313938386338/photo_2021-07-08_21-.jpg</picture>
+          <delivery>false</delivery>
+          <pickup>false</pickup>
+          <store>false</store>
+          <description>
+<![CDATA[
+Диаметр 30 см . Материал эпоксидная смола . Ручная работа
+]]>
+          </description>
+      </offer>
+      <offer id="479429114591">
+          <name>Ваза для фруктов</name>
+          <url>https://olle-handmade.ru/iz-smoly/tproduct/295139759-479429114591-vaza-dlya-fruktov</url>
+          <price>4100.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>320880017241</categoryId>
+          <picture>https://static.tildacdn.com/tild3331-3336-4231-a338-333134656336/photo_2021-07-08_21-.jpg</picture>
+          <delivery>false</delivery>
+          <pickup>false</pickup>
+          <store>false</store>
+          <description>
+<![CDATA[
+Размер 33х23 см . Материал эпоксидная смола . Ручная работа
+]]>
+          </description>
+      </offer>
+      <offer id="841323630711">
+          <name>Картина лучики</name>
+          <url>https://olle-handmade.ru/kartiny-ruchnoj-raboty/tproduct/295147781-841323630711-kartina-luchiki</url>
+          <price>8700.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>320880017241</categoryId>
+          <picture>https://static.tildacdn.com/tild6230-3633-4937-b232-653662346261/photo_2021-07-08_21-.jpg</picture>
+          <delivery>false</delivery>
+          <pickup>false</pickup>
+          <store>false</store>
+          <description>
+<![CDATA[
+Эффект старины. Материал текстурная паста , поталь , лак. Основа холст 40х60 см.
+]]>
+          </description>
+      </offer>
+      <offer id="528680066951">
+          <name>Картина со стеклянной крошкой</name>
+          <url>https://olle-handmade.ru/kartiny-ruchnoj-raboty/tproduct/295147781-528680066951-kartina-so-steklyannoi-kroshkoi</url>
+          <price>8700.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>320880017241</categoryId>
+          <picture>https://static.tildacdn.com/tild3636-6133-4562-a235-653965363331/photo_2021-07-08_21-.jpg</picture>
+          <delivery>false</delivery>
+          <pickup>false</pickup>
+          <store>false</store>
+          <description>
+<![CDATA[
+Картина 40х40 см с&nbsp;стеклянной крошкой .&nbsp;Материал артборд для смолы и эпоксидная смола , стеклянная крошка.&nbsp;
+]]>
+          </description>
+      </offer>
+      <offer id="225145341581">
+          <name>Подарочный сертификат</name>
+          <url>https://olle-handmade.ru/gift-card/tproduct/334546652-225145341581-podarochnii-sertifikat</url>
+          <price>3000.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>177022826971</categoryId>
+          <picture>https://static.tildacdn.com/tild3464-3561-4334-b831-653434333037/page-4.jpeg</picture>
+          <delivery>false</delivery>
+          <pickup>false</pickup>
+          <store>false</store>
+          <description>
+<![CDATA[
+Подарите выбор вашим друзьям и близким из любой точки мира!&nbsp;Доставляется на электронную почту.
+]]>
+          </description>
+      </offer>
+      <offer id="475221926871">
+          <name>Подарочный сертификат</name>
+          <url>https://olle-handmade.ru/podarki-ruchnoj-raboty/tproduct/297083127-475221926871-podarochnii-sertifikat</url>
+          <price>5000.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>177022826971</categoryId>
+          <picture>https://static.tildacdn.com/tild6539-6532-4534-b938-653935313466/page-2.jpeg</picture>
+          <delivery>false</delivery>
+          <pickup>false</pickup>
+          <store>false</store>
+          <description>
+<![CDATA[
+Подарите выбор вашим друзьям и близким из любой точки мира!&nbsp;Доставляется на электронную почту.
+]]>
+          </description>
+      </offer>
+      <offer id="905151996391">
+          <name>Подарочный сертификат</name>
+          <url>https://olle-handmade.ru/podarki-ruchnoj-raboty/tproduct/297083127-905151996391-podarochnii-sertifikat</url>
+          <price>10000.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>177022826971</categoryId>
+          <picture>https://static.tildacdn.com/tild6464-3635-4163-b036-396631363735/page-1.jpeg</picture>
+          <delivery>false</delivery>
+          <pickup>false</pickup>
+          <store>false</store>
+          <description>
+<![CDATA[
+Подарите выбор вашим друзьям и близким из любой точки мира!&nbsp;Доставляется на электронную почту.
 ]]>
           </description>
       </offer>
